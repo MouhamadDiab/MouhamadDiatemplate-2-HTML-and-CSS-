@@ -499,7 +499,6 @@ width: 100%;
 
  /* start skills */
  .skill{
-    height: 100vh;
     position: relative;
  }
  .skill .container{
